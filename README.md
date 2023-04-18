@@ -1,6 +1,6 @@
 # Hi, I'm Parker!
 
-I'm a computer science student at Oregon State University, graduating in June, 2023. I am currently looking for internships for Summer 2023, before starting a Ph.D. in Natural Language Processing this Fall.
+I'm a computer science student at Oregon State University, graduating in June, 2023. This summer, I'll be joining Pangea Chat as a research engineer intern, before starting a Ph.D. in Computer Science at UC Santa Barbara this Fall.
 
 ### About Me 📄 
 
@@ -9,9 +9,9 @@ I have a strong technical background in multiple disciplines of CS, including wo
 
 ### Research 🔬
 
-*My paper "Transposition of Simple Waveforms from Raw Audio with Deep Learning" was recently accepted to EvoMUSART 2023!*
-
 I have worked at the [Soundbendor Lab](https://www.soundbendor.org) for four years, where I was advised by Dr. Patrick Donnelly. My work focused on applying machine learning to sound 🎵 in the time-domain, resulting in one peer-reviewed publication 📄, multiple poster presentations 📰, and winning university awards 🎖️ for my work.
+
+This fall, I'll be joining Dr. Tao Yang at UC Santa Barbara for a Ph.D. in computer science, focusing on natural language processing and document retrieval.
 
 ### Projects & Coursework 📚
 
