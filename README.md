@@ -1,11 +1,10 @@
 # Hi, I'm Parker!
 
-I'm a computer science student at Oregon State University, graduating in June, 2023. This summer, I'll be joining Pangea Chat as a research engineer intern, before starting a Ph.D. in Computer Science at UC Santa Barbara this Fall.
+I'm a computer science doctoral student at the University of California, Santa Barbara. 
 
 ### About Me 📄 
 
 I have a strong technical background in multiple disciplines of CS, including work in machine learning ✨ (TensorFlow, SKLearn), data science 🔬 (Pandas, MatPlotLib, SQL, Snowflake, TDV), business informatics 📊 (Domo, Spotfire, Statistica), webdev 💻 (React, Django, Express), as well as various projects in C, C++, and Java. 
-
 
 ### Research 🔬
 
@@ -21,7 +20,7 @@ I am currently working to update my GitHub and personal website to properly demo
 
 Be sure to check out [my website](http://thefxperson.github.io) to learn more about me and my past projects.
 
-Contact me at: [carlspar@oregonstate.edu](mailto:carlspar@oregonstate.edu)
+Contact me at: [parker_carlson@ucsb.edu](mailto:parker_carlson@ucsb.edu)
 
 <!--
 **thefxperson/thefxperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 🌠
