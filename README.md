@@ -8,9 +8,9 @@ I have a strong technical background in multiple disciplines of CS, including wo
 
 ### Research 🔬
 
-I have worked at the [Soundbendor Lab](https://www.soundbendor.org) for four years, where I was advised by Dr. Patrick Donnelly. My work focused on applying machine learning to sound 🎵 in the time-domain, resulting in one peer-reviewed publication 📄, multiple poster presentations 📰, and winning university awards 🎖️ for my work.
+I am pursuing a Ph.D. in computer science with Dr. Tao Yang at UC Santa Barbara. I'm currently focusing on improving the efficiency of information retrieval systems, as well as multilingual natural language processing. 
 
-This fall, I'll be joining Dr. Tao Yang at UC Santa Barbara for a Ph.D. in computer science, focusing on natural language processing and document retrieval.
+Previously, I worked at the [Soundbendor Lab](https://www.soundbendor.org) at Oregon State University for four years, where I was advised by Dr. Patrick Donnelly. My work focused on applying machine learning to sound 🎵 in the time-domain, resulting in two peer-reviewed publication 📄, multiple poster presentations 📰, and winning university awards 🎖️ for my work.
 
 ### Projects & Coursework 📚
 
